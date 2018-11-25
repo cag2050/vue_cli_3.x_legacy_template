@@ -1,4 +1,4 @@
-# vue_cli_2.x_template
+# vue_cli_3.x_legacy_template
 
 > A Vue.js project
 
